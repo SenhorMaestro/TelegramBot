@@ -1,0 +1,30 @@
+INFO:aiogram:Bot: MIDtranslation_bot [@MIDtranslation_bot]
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:root:user_name='Никита' user_id=1284512158 sent message: Салам
+INFO:root:user_name='Никита' user_id=1284512158 sent message: Ещё раз
+INFO:aiogram:Bot: MIDtranslation_bot [@MIDtranslation_bot]
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:root:user_name='Никита' user_id=1284512158 sent message: Сайонара at Mon Sep 12 15:58:11 2022
+INFO:root:user_name='Никита' user_id=1284512158 sent message: Проверка времени at Mon Sep 12 15:58:11 2022
+INFO:root:user_name='Никита' user_id=1284512158 sent message: Ещё проверка at Mon Sep 12 15:58:11 2022
+INFO:root:user_name='Никита' user_id=1284512158 sent message: И ещё at Mon Sep 12 15:58:11 2022
+INFO:root:user_name='Никита' user_id=1284512158 sent message: Так at Mon Sep 12 15:58:11 2022
+INFO:root:user_name='Никита' user_id=1284512158 sent message: А at Mon Sep 12 15:58:11 2022
+INFO:aiogram:Bot: MIDtranslation_bot [@MIDtranslation_bot]
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:root:user_name='Никита' user_id=1284512158 sent message: Б at Mon Sep 12 16:10:42 2022
+INFO:root:user_name='Никита' user_id=1284512158 sent message: В at Mon Sep 12 16:11:14 2022
+INFO:root:user_name='Никита' user_id=1284512158 sent message: Г at Mon Sep 12 16:11:22 2022
+INFO:root:user_name='Никита' user_id=1284512158 sent message: /start
+INFO:root:user_name='Никита' user_id=1284512158 sent message: /start
+INFO:aiogram:Bot: MIDtranslation_bot [@MIDtranslation_bot]
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:root:user_name='Никита' user_id=1284512158 sent message: /start at Mon Sep 12 16:13:11 2022
+INFO:root:user_name='Никита' user_id=1284512158 sent message: /start at Mon Sep 12 16:13:23 2022
+INFO:aiogram:Bot: MIDtranslation_bot [@MIDtranslation_bot]
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:root:user_name='Никита' user_id=1284512158 sent message: Ах ты какой at Mon Sep 12 16:17:46 2022
+INFO:root:user_name='Никита' user_id=1284512158 sent message: А at Mon Sep 12 16:17:59 2022
+INFO:aiogram:Bot: MIDtranslation_bot [@MIDtranslation_bot]
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:root:user_name='Никита' user_id=1284512158 sent message: 16:18 at Mon Sep 12 16:19:13 2022
